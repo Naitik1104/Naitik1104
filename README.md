@@ -1,25 +1,18 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E2A4A&height=200&section=header&text=Naitik%20Mehta&fontSize=52&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Applied%20ML%20%26%20Computer%20Vision&descAlignY=58&descSize=17&descColor=8B949E" width="100%"/>
-
 <a href="https://github.com/Naitik1104">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+full-stack+products+that+ship;Teaching+cameras+to+re-identify+what+they+track;Turning+geospatial+data+into+decisions+that+matter;%F0%9F%8E%AF+Precision+over+noise" alt="Typing SVG" />
 </a>
-
 <p align="center">
   <a href="https://naitik-mehta-portfolio.vercel.app" target="_blank"><b>Portfolio</b></a> ·
   <a href="https://linkedin.com/in/naitik-mehta-a17774281" target="_blank"><b>LinkedIn</b></a> ·
   <a href="https://github.com/Naitik1104?tab=repositories" target="_blank"><b>All Repos</b></a>
 </p>
-
 </div>
-
 <br/>
-
 <div align="center">
 <img src="assets/terminal-card.svg" width="100%" alt="Naitik's dev identity card"/>
 </div>
-
 <br/>
 
 ## ✦ How I Think
