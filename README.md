@@ -4,6 +4,73 @@
 
 <a href="https://github.com/Naitik1104">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+full-stack+products+that+ship;Teaching+cameras+to+re-identify+what+they+track;Turning+geospatial+data+into+decisions+that+matter;%F0%9F%8E%AF+Precision+over+noise" alt="Typing SVG" />
+  <svg viewBox="0 0 880 350" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',ui-monospace,'SFMono-Regular','Cascadia Code','Liberation Mono',monospace">
+  <defs>
+    <linearGradient id="cardBorder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#30363D"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .chrome-title { fill: #6E7681; font-size: 12px; }
+    .prompt-user { fill: #56D4C1; font-size: 14.5px; font-weight: 600; }
+    .prompt-sep { fill: #6E7681; font-size: 14.5px; }
+    .prompt-cmd { fill: #E6EDF3; font-size: 14.5px; font-weight: 600; }
+    .field-label { fill: #7D8590; font-size: 14px; }
+    .field-dots { fill: #30363D; font-size: 14px; }
+    .field-value { fill: #C9D1D9; font-size: 14px; }
+    .field-accent { fill: #58A6FF; font-size: 14px; }
+    .cursor { fill: #58A6FF; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+  </style>
+
+  <!-- card background -->
+  <rect x="1" y="1" width="878" height="348" rx="14" fill="#0D1117" stroke="url(#cardBorder)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="878" height="90" rx="14" fill="url(#glow)"/>
+
+  <!-- chrome bar -->
+  <line x1="1" y1="42" x2="879" y2="42" stroke="#21262D" stroke-width="1"/>
+  <circle cx="28" cy="21" r="6" fill="#FF5F56" opacity="0.85"/>
+  <circle cx="50" cy="21" r="6" fill="#FFBD2E" opacity="0.85"/>
+  <circle cx="72" cy="21" r="6" fill="#27C93F" opacity="0.85"/>
+  <text x="440" y="26" text-anchor="middle" class="chrome-title">naitik@github — zsh</text>
+
+  <!-- prompt line -->
+  <text x="32" y="75" xml:space="preserve"><tspan class="prompt-user">naitik</tspan><tspan class="prompt-sep">@github</tspan><tspan class="prompt-sep"> ~ </tspan><tspan class="prompt-cmd">whoami --stack</tspan></text>
+
+  <!-- fields -->
+  <g font-size="14">
+    <!-- focus -->
+    <text x="32" y="118" xml:space="preserve"><tspan class="field-label">focus</tspan><tspan class="field-dots">...............</tspan><tspan class="field-value">Applied ML </tspan><tspan class="field-accent">×</tspan><tspan class="field-value"> Full-Stack Engineering</tspan></text>
+
+    <!-- languages -->
+    <text x="32" y="150" xml:space="preserve"><tspan class="field-label">languages</tspan><tspan class="field-dots">...........</tspan><tspan class="field-value">TypeScript </tspan><tspan class="field-accent">·</tspan><tspan class="field-value"> Python </tspan><tspan class="field-accent">·</tspan><tspan class="field-value"> JavaScript</tspan></text>
+
+    <!-- domains -->
+    <text x="32" y="182" xml:space="preserve"><tspan class="field-label">domains</tspan><tspan class="field-dots">.............</tspan><tspan class="field-value">Computer Vision </tspan><tspan class="field-accent">·</tspan><tspan class="field-value"> Geospatial ML </tspan><tspan class="field-accent">·</tspan><tspan class="field-value"> Web Systems</tspan></text>
+
+    <!-- shipping now -->
+    <text x="32" y="214" xml:space="preserve"><tspan class="field-label">shipping now</tspan><tspan class="field-dots">........</tspan><tspan class="field-value">Cross-Cam-mapping</tspan><tspan class="field-accent">, </tspan><tspan class="field-value">Accessibility Mapper</tspan></text>
+
+    <!-- repositories -->
+    <text x="32" y="246" xml:space="preserve"><tspan class="field-label">repositories</tspan><tspan class="field-dots">........</tspan><tspan class="field-value">19 public</tspan><tspan class="field-accent"> · </tspan><tspan class="field-value">4 followers</tspan></text>
+
+    <!-- achievements -->
+    <text x="32" y="278" xml:space="preserve"><tspan class="field-label">achievements</tspan><tspan class="field-dots">........</tspan><tspan class="field-value">YOLO 🏆   Pull Shark 🦈</tspan></text>
+
+    <!-- reach -->
+    <text x="32" y="310" xml:space="preserve"><tspan class="field-label">reach</tspan><tspan class="field-dots">...............</tspan><tspan class="field-value">naitik-mehta-portfolio.vercel.app</tspan></text>
+  </g>
+
+  <!-- closing prompt + cursor -->
+  <text x="32" y="338" xml:space="preserve"><tspan class="prompt-user">naitik</tspan><tspan class="prompt-sep">@github</tspan><tspan class="prompt-sep"> ~ </tspan></text>
+  <rect x="172" y="326" width="9" height="16" class="cursor"/>
+</svg>
 </a>
 
 <p align="center">
