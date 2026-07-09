@@ -53,8 +53,7 @@ A platform that scores public-service accessibility gaps across Mumbai — fire 
 Re-identifies the same tracked subject across two independent, unsynchronized camera feeds using YOLOv11 detection and cross-view motion correlation — no shared metadata between cameras, just correlated movement.
 [View repository ↗](https://github.com/Naitik1104/Cross-Cam-mapping)
 
-**SkillNest**
-*Reserved — send me the repository link or a one-line description and I'll seat it here with the same care as the two above.*
+
 
 <br/>
 
