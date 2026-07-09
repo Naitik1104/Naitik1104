@@ -1,94 +1,87 @@
 <div align="center">
 
-<pre>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━
-                                ┃
-                               [≡]
-                              ╱ ⋈ ╲
-                             │  ✧  │
-                              ╲ ⋈ ╱
-                               [≡]
-                                ⏚
-</pre>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/emblem-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/emblem-light.svg">
+  <img src="assets/emblem-light.svg" width="88" alt="">
+</picture>
 
-<br/>
-
-<h1>N a i t i k &nbsp; M e h t a</h1>
-
+<h1 align="center">Naitik Mehta</h1>
 <p><i>Orchestration. State. Architecture.</i></p>
 
-<p>
-  <a href="https://naitik-mehta-portfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Naitik1104?tab=repositories">Repositories</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/naitik-mehta-a17774281">Contact</a>
-</p>
+<sub>
+<a href="https://naitik-mehta-portfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://github.com/Naitik1104?tab=repositories">Repositories</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/naitik-mehta-a17774281">Contact</a>
+</sub>
 
 </div>
 
 <br/>
 
-> *“Engineering is structural. Like the meticulous pacing and architecture of a carefully directed film, software requires absolute intent. Every transition, every state, every loop must be placed exactly where it belongs.”*
+> *Engineering is structural. Like the pacing and architecture of a carefully directed film, software requires absolute intent — every transition, every state, every loop placed exactly where it belongs.*
 
 <br/>
 
-### ✦ The Work
-
-I focus on the invisible layers of software. I build systems where orchestration and logic flow seamlessly without deadlocks or bottlenecks. My primary domain is designing environments where complex agents and state machines can operate harmoniously.
-
-**Current Focus:** Developing multi-agent AI ecosystems, refining debate and synthesis agents, and untangling execution loops in dynamic platforms.
+I work across two layers most people never see: the orchestration logic that keeps independent agents from stepping on each other, and the applied ML that turns raw signal — camera feeds, geospatial data — into something a system can act on. Both are exercises in the same discipline: knowing exactly which state you're in, and exactly what happens next.
 
 <br/>
 
-### ✦ The Toolkit
+## Currently
 
-I treat technologies as tools in a craftsman's workshop—selected for purpose, not for display.
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b>Architecture</b><br/>
-      Multi-Agent Systems<br/>
-      State Management<br/>
-      Orchestration Layers
-    </td>
-    <td width="33%" valign="top">
-      <b>Systems</b><br/>
-      Execution Pipelines<br/>
-      Cache Layering<br/>
-      Deadlock Resolution
-    </td>
-    <td width="33%" valign="top">
-      <b>Languages</b><br/>
-      Python<br/>
-      TypeScript<br/>
-      System-level scripting
-    </td>
-  </tr>
-</table>
+Building coordination patterns for multi-agent AI systems — extraction, debate, and synthesis agents that break a complex query into interconnected state transitions without drifting into infinite generation loops. Alongside that, working inside the Antigravity agentic coding environment: resolving agent state deadlocks and tightening local caching so long sessions stay responsive instead of stalling in a perpetual "generating" state.
 
 <br/>
 
-### ✦ Selected Engineering
+## Expertise
 
-*A curation of systems designed for reliability and structural integrity.*
+**Languages** — Python, TypeScript, JavaScript
 
-**Multi-Agent Synthesizer Ecosystem**
-Engineered a collaborative AI platform featuring extraction layers, debate agents, and a synthesizer. Designed to break down complex queries into manageable, interconnected state transitions without infinite generation loops.
+**Systems** — Multi-agent orchestration, state machines, execution pipelines, caching layers
 
-**Antigravity Architecture**
-Troubleshooting and refining execution layers within the Antigravity environment. Focused on resolving agent state deadlocks (preventing systems from hanging indefinitely in "generating" or "loading" states) and optimizing local data caching mechanisms for smooth performance.
-
-**Cross-View Identity Mapping**
-A pipeline built to maintain state and identity across independent camera feeds. A problem of precise timing and angle correlation, solved without relying on shared metadata.
+**Applied ML** — Computer vision (YOLOv11, OpenCV), geospatial analysis, object tracking & re-identification
 
 <br/>
 
-### ✦ Activity
+## Selected work
+
+**Accessibility Mapper** — *geospatial ML*
+A platform that scores public-service accessibility gaps across Mumbai — fire stations, hospitals, civic infrastructure — against real population need rather than simple proximity. Python ML layer feeding a React and Supabase frontend.
+[View repository ↗](https://github.com/Naitik1104/Accesiblity_mapper)
+
+**Cross-view identity mapping** — *computer vision*
+Re-identifies the same tracked subject across two independent, unsynchronized camera feeds using YOLOv11 detection and cross-view motion correlation — no shared metadata between cameras, just correlated movement.
+[View repository ↗](https://github.com/Naitik1104/Cross-Cam-mapping)
+
+**SkillNest**
+*Reserved — send me the repository link or a one-line description and I'll seat it here with the same care as the two above.*
+
+<br/>
+
+## Activity
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Naitik1104&show_icons=false&hide_border=true&bg_color=transparent&title_color=A0A0A0&text_color=505050&hide_rank=true" height="120" alt="GitHub Metrics" />
-  
-  <p><i>Less, but better.</i></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik1104&bg_color=ffffff00&color=6E7681&line=6E7681&point=6E7681&hide_border=true&hide_title=true" width="100%" alt="Contribution activity"/>
+</div>
+
+<p align="center"><sub>19 public repositories</sub></p>
+
+<br/>
+
+## Contact
+
+<div align="center">
+
+<a href="https://linkedin.com/in/naitik-mehta-a17774281">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://naitik-mehta-portfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://github.com/Naitik1104">GitHub</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/emblem-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/emblem-light.svg">
+  <img src="assets/emblem-light.svg" width="28" alt="">
+</picture>
 
 </div>
