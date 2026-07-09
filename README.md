@@ -19,7 +19,7 @@
 
 <br/>
 
-> *Engineering is structural. Like the pacing and architecture of a carefully directed film, software requires absolute intent — every transition, every state, every loop placed exactly where it belongs.*
+> Engineering is structural. Like the pacing and architecture of a carefully directed film, software requires absolute intent — every transition, every state, every loop placed exactly where it belongs.
 
 <br/>
 
