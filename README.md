@@ -12,7 +12,7 @@
 <sub>
 <a href="https://naitik-mehta-portfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://github.com/Naitik1104?tab=repositories">Repositories</a> &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/naitik-mehta-a17774281">Contact</a>
+<a href="https://linkedin.com/in/naitik-mehta11">Linkedin</a>
 </sub>
 
 </div>
