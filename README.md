@@ -1,165 +1,107 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E2A4A&height=200&section=header&text=Naitik%20Mehta&fontSize=52&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Applied%20ML%20%26%20Computer%20Vision&descAlignY=58&descSize=17&descColor=8B949E" width="100%"/>
-<a href="https://github.com/Naitik1104">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+full-stack+products+that+ship;Teaching+cameras+to+re-identify+what+they+track;Turning+geospatial+data+into+decisions+that+matter;%F0%9F%8E%AF+Precision+over+noise" alt="Typing SVG" />
-</a>
-<p align="center">
-  <a href="https://naitik-mehta-portfolio.vercel.app" target="_blank"><b>Portfolio</b></a> ·
-  <a href="https://linkedin.com/in/naitik-mehta-a17774281" target="_blank"><b>LinkedIn</b></a> ·
-  <a href="https://github.com/Naitik1104?tab=repositories" target="_blank"><b>All Repos</b></a>
-</p>
+  <h1>Naitik Mehta</h1>
+  <p><b>Software Engineer · Applied ML, Computer Vision & Multi-Agent Systems</b></p>
+  <p>
+    <a href="https://naitik-mehta-portfolio.vercel.app" target="_blank">Portfolio</a> •
+    <a href="https://linkedin.com/in/naitik-mehta-a17774281" target="_blank">LinkedIn</a> •
+    <a href="https://github.com/Naitik1104?tab=repositories" target="_blank">Repositories</a>
+  </p>
 </div>
-<br/>
-<div align="center">
-<img src="assets/terminal-card.svg" width="100%" alt="Naitik's dev identity card"/>
-</div>
-<br/>
-
-## ✦ How I Think
-
-I sit at the seam between **product engineering** and **applied machine learning** — I don't just wire up APIs, and I don't just train a model in a notebook and call it done. I like taking something intelligent and shipping it as software a real person can actually open: a map, a dashboard, a working pipeline.
-
-That shows up in the shape of my work — **geospatial ML** that turns civic data into infrastructure decisions, **computer vision** that re-identifies tracked objects across independent camera feeds, and interfaces clean enough that the intelligence underneath doesn't need to shout about itself.
-
-> **Right now:** deep in computer vision and geospatial ML — YOLOv11, tracking, cross-view identity mapping — while keeping my full-stack instincts sharp so the models I build actually reach a screen.
 
 <br/>
 
-## ✦ Where I Operate
+### ✦ How I Think
+
+I sit at the seam between **product engineering** and **applied machine learning**. I don't just wire up APIs, and I don't just train a model in a notebook and call it done. I like taking something intelligent and shipping it as software a real person can actually open: a map, a dashboard, or a complex orchestration pipeline.
+
+That shows up in the shape of my work — geospatial ML that turns civic data into infrastructure decisions, computer vision that re-identifies tracked objects across independent camera feeds, and multi-agent systems designed with reliable state management so the intelligence underneath doesn't get bottlenecked.
+
+> **Current Focus:** Deep in computer vision (YOLOv11, tracking, cross-view identity mapping) and geospatial ML, while keeping my full-stack and orchestration instincts sharp so the models I build actually reach a screen.
+
+<br/>
+
+### ✦ Technical Arsenal
 
 <div align="center">
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Full-Stack Engineering**
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs" alt="Full Stack Stack"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Applied ML & Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,opencv,supabase,docker" alt="ML Stack"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Infra & Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,vercel,postgres" alt="Infra Stack"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Currently Sharpening**
-<br/>
-<code>YOLOv11</code> <code>Object Tracking</code> <code>Cross-View Re-ID</code> <code>Geospatial ML</code>
-
-</td>
-</tr>
-</table>
+  <table width="100%">
+    <tr>
+      <td valign="top" width="25%">
+        <b>Languages</b><br/>
+        Python<br/>
+        TypeScript<br/>
+        JavaScript
+      </td>
+      <td valign="top" width="25%">
+        <b>Applied ML & Data</b><br/>
+        YOLOv11 / OpenCV<br/>
+        Geospatial ML<br/>
+        PostgreSQL / Supabase
+      </td>
+      <td valign="top" width="25%">
+        <b>Architecture</b><br/>
+        Multi-Agent Orchestration<br/>
+        State Management<br/>
+        Pipeline Engineering
+      </td>
+      <td valign="top" width="25%">
+        <b>Frontend & Tooling</b><br/>
+        React / Next.js<br/>
+        Tailwind CSS<br/>
+        Docker / Git
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-## ✦ Engineering, Selected
+### ✦ Selected Engineering
 
-*A few projects that best represent how I build — out of 19 repos, these are the ones with real thought behind them.*
-
-<br/>
+*A few projects that best represent how I build — out of my 19 repositories, these are the ones with real thought behind them.*
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🗺️ [Accessibility Mapper](https://github.com/Naitik1104/Accesiblity_mapper)
-
-An ML-driven geospatial platform that surfaces **public-service accessibility gaps across Mumbai** — fire stations, hospitals, and civic infrastructure scored against real population need, not just proximity on a map.
-
-A Python ML layer feeds a React + Supabase frontend — built to answer a genuinely useful question: *where is a city underserved, and by how much?*
-
-<code>TypeScript · 85%</code> <code>Python · 12%</code> <code>Supabase</code>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎥 [Cross-Camera Identity Mapping](https://github.com/Naitik1104/Cross-Cam-mapping)
-
-A computer vision pipeline that re-identifies the **same tracked object across two independent camera feeds** — broadcast and tactical angles — using YOLOv11 detection and cross-view movement-pattern matching.
-
-The kind of problem that sounds simple until the two cameras agree on nothing: not angle, not scale, not timing. 32 commits deep, with an outside contributor already forking in.
-
-<code>Python · 100%</code> <code>YOLOv11</code> <code>OpenCV</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 [Saathi](https://github.com/Naitik1104/Saathi-Pympr1B)
-
-A safety-first companion app with selfie verification, live chat, event discovery, and a dedicated user-discretion layer — built around one premise: **social features should protect people first, engage them second.**
-
-<a href="https://saathi-pympr1-b.vercel.app">Live demo →</a>
-
-<code>Python · 100%</code> <code>Facial Verification</code> <code>Real-time Chat</code>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Personal Portfolio](https://naitik-mehta-portfolio.vercel.app)
-
-My digital front door — clean type, deliberate motion, zero unnecessary noise. Built to load fast and say exactly what needs saying, nothing more.
-
-<code>Next.js</code> <code>Tailwind</code> <code>Design Systems</code>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Naitik1104/Accesiblity_mapper">Accessibility Mapper</a></b><br/>
+      An ML-driven geospatial platform surfacing public-service accessibility gaps across Mumbai. A Python ML layer feeds a React/Supabase frontend to answer a genuinely useful question: <i>where is a city underserved, and by how much?</i><br/>
+      <br/><code>TypeScript</code> <code>Python</code> <code>Supabase</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Naitik1104/Cross-Cam-mapping">Cross-Camera Identity Mapping</a></b><br/>
+      A computer vision pipeline that re-identifies the same tracked object across two independent camera feeds using YOLOv11 detection and cross-view movement-pattern matching.<br/>
+      <br/><code>Python</code> <code>YOLOv11</code> <code>OpenCV</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Naitik1104/Saathi-Pympr1B">Saathi Companion App</a></b><br/>
+      A safety-first application with selfie verification, live chat, and a dedicated user-discretion layer. Built around the premise that social features should protect people first, engage them second.<br/>
+      <br/><code>Python</code> <code>Facial Verification</code> <code>Real-time Chat</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://naitik-mehta-portfolio.vercel.app">Personal Portfolio</a></b><br/>
+      My digital front door — clean type, deliberate motion, zero unnecessary noise. Built to load fast and say exactly what needs saying, nothing more.<br/>
+      <br/><code>Next.js</code> <code>Tailwind</code> <code>Design Systems</code>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## ✦ Analytics
+### ✦ Analytics
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naitik1104&theme=tokyonight" width="49%" alt="Languages by repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naitik1104&theme=tokyonight" width="49%" alt="Languages by commit"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik1104&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true&custom_title=Build%20Activity" width="100%" alt="Build activity graph"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Naitik1104&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik1104&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naitik1104&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Trophies"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Naitik1104&show_icons=true&hide_border=true&bg_color=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=7D8590" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik1104&layout=compact&hide_border=true&bg_color=transparent&title_color=58A6FF&text_color=7D8590" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
-## ✦ Let's Build
+### ✦ Let's Build
 
-<div align="center">
+I am always up for a conversation about ML systems that ship, complex orchestration problems worth solving, or the occasional debugging horror story.
 
-I'm always up for a conversation about ML systems that ship, geospatial or computer-vision problems worth solving, or the occasional debugging horror story.
+<a href="https://linkedin.com/in/naitik-mehta-a17774281">LinkedIn</a> • <a href="https://naitik-mehta-portfolio.vercel.app">Portfolio</a>
 
-<a href="https://linkedin.com/in/naitik-mehta-a17774281">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://naitik-mehta-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/View_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-<i>Building things that are precise on purpose.</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2A4A,100:0D1117&height=100&section=footer" width="100%"/>
-
-</div>
+<br/>
+<p align="center"><i>Building things that are precise on purpose.</i></p>
