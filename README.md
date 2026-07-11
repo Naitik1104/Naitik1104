@@ -33,7 +33,7 @@ Building coordination patterns for multi-agent AI systems — extraction, debate
 
 <br/>
 
-## Expertise
+## Skills
 
 **Languages** — Python, TypeScript, JavaScript
 
