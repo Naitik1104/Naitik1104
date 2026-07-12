@@ -7,7 +7,7 @@
 </picture>
 
 <h1 align="center">Naitik Mehta</h1>
-<p>Orchestration. State. Architecture.</p>
+<p>ORCHESTRATION. STATE. ARCHITECTURE.</p>
 
 <sub>
 <a href="https://naitik-mehta-portfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
