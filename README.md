@@ -21,11 +21,11 @@
 
 <br/>
 
-> Engineering is structural. Like the pacing and architecture of a carefully directed film, software requires absolute intent — every transition, every state, every loop placed exactly where it belongs.
+> Engineering is structural.Like a well-directed film, software succeeds when every transition is intentional.
 
 <br/>
 
-I work across two layers most people never see: the orchestration logic that keeps independent agents from stepping on each other, and the applied ML that turns raw signal — camera feeds, geospatial data — into something a system can act on. Both are exercises in the same discipline: knowing exactly which state you're in, and exactly what happens next.
+
 
 <br/>
 
