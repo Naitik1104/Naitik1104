@@ -30,8 +30,8 @@
 <br/>
 
 ## Currently
-
-Building coordination patterns for multi-agent AI systems — extraction, debate, and synthesis agents that break a complex query into interconnected state transitions without drifting into infinite generation loops. Alongside that, working inside the Antigravity agentic coding environment: resolving agent state deadlocks and tightening local caching so long sessions stay responsive instead of stalling in a perpetual "generating" state.
+Pursuing Final Year
+Building software across backend systems, web applications, and AI-powered workflows. I enjoy designing orchestration logic that coordinates independent services and agents-from extraction and reasoning pipelines to multi-step workflows - while keeping state transitions predictable and maintainable.
 
 <br/>
 
