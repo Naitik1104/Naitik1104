@@ -7,9 +7,9 @@
 </picture>
 
 <h1 align="center">Naitik Mehta</h1>
-<h2 align="center">ORCHESTRATION. STATE. ARCHITECTURE.</h2>
+<h3 align="center">ORCHESTRATION. STATE. ARCHITECTURE.</h3>
 
-<p>Architecting Order from Complexity</p>
+<p>The uncertain rhythm of predicatble systems</p>
 
 <sub>
 <a href="https://naitik-mehta-portfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
