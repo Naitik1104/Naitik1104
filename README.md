@@ -33,25 +33,25 @@
 Pursuing Final Year
 Building software across backend systems, web applications, and AI-powered workflows. I enjoy designing orchestration logic that coordinates independent services and agents-from extraction and reasoning pipelines to multi-step workflows - while keeping state transitions predictable and maintainable.
 
-<br/>
+<!-- <br/>
 
 ## Skills
 
-**Languages** — Python, TypeScript, JavaScript
+**Languages** - Python, TypeScript, JavaScript
 
-**Systems** — Multi-agent orchestration, state machines, execution pipelines, caching layers
+**Systems** - Multi-agent orchestration, state machines, execution pipelines, caching layers
 
-**Applied ML** — Computer vision (YOLOv11, OpenCV), geospatial analysis, object tracking & re-identification
+**Applied ML** - Computer vision (YOLOv11, OpenCV), geospatial analysis, object tracking & re-identification
 
-<br/>
+<br/> -->
 
 ## Selected work
 
-**Accessibility Mapper** — *geospatial ML*
+**Accessibility Mapper** - *geospatial ML*
 A platform that scores public-service accessibility gaps across Mumbai — fire stations, hospitals, civic infrastructure — against real population need rather than simple proximity. Python ML layer feeding a React and Supabase frontend.
 [View repository ↗](https://github.com/Naitik1104/Accesiblity_mapper)
 
-**Cross-view identity mapping** — *computer vision*
+**Cross-view identity mapping** - *computer vision*
 Re-identifies the same tracked subject across two independent, unsynchronized camera feeds using YOLOv11 detection and cross-view motion correlation — no shared metadata between cameras, just correlated movement.
 [View repository ↗](https://github.com/Naitik1104/Cross-Cam-mapping)
 
@@ -61,9 +61,9 @@ Re-identifies the same tracked subject across two independent, unsynchronized ca
 
 ## Activity
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik1104&bg_color=ffffff00&color=6E7681&line=6E7681&point=6E7681&hide_border=true&hide_title=true" width="100%" alt="Contribution activity"/>
-</div>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik1104&theme=github-compact&hide_border=true&hide_title=true&radius=12"
+/>
 
 <p align="center"><sub>19 public repositories</sub></p>
 
