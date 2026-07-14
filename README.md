@@ -7,7 +7,9 @@
 </picture>
 
 <h1 align="center">Naitik Mehta</h1>
-<p>ORCHESTRATION. STATE. ARCHITECTURE.</p>
+<h2 align="center">ORCHESTRATION. STATE. ARCHITECTURE.</h2>
+
+<p>Architecting Order from Complexity</p>
 
 <sub>
 <a href="https://naitik-mehta-portfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
