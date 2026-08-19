@@ -61,15 +61,7 @@ Re-identifies the same tracked subject across two independent, unsynchronized ca
 
 <br/>
 
-## Activity
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik1104&theme=github-compact&hide_border=true&hide_title=true&radius=12"
-/>
-
-<p align="center"><sub>19 public repositories</sub></p>
-
-<br/>
 
 ## Contact
 
